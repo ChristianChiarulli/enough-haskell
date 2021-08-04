@@ -1,0 +1,4 @@
+# Possible are: cabal, stack, bios, direct, default, none, multi
+cradle:
+  bios:
+    program: ".test"
