@@ -14,6 +14,8 @@
 
 - Values are all constants
 
+- Statically typed
+
 - Is lazy (doesn't execute more than it needs to)
 
 - Very strict error checking
